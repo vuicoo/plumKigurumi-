@@ -1,4 +1,8 @@
 # plum：Open Kigurumi model for blender开源头壳模型
+
+视频简介：
+https://twitter.com/i/status/1741975998399439042
+
 plumAlpha*.blend是开源的头壳模型工程文件；必须使用blender4.0以上版本打开
   
 存在历史原因有很多像山一样的（史山）问题，希望抛砖引玉，大家一起完善开源头壳模型。
